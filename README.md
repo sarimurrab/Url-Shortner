@@ -1,2 +1,2 @@
 # Url-Shortner:
-## This is project named "Url-Shortner" is created in Flask.
+## This project named "Url-Shortner" is created in Flask.
